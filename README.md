@@ -1,11 +1,10 @@
-Abstract:
-Heart disease is easier to treat when it is detected in the early stages. Machine learning techniques may aid a more efficient analysis in the prediction of the disease. Moreover, this prediction is one of the most 
-central problems in medicine, as it is one of the leading diseases related to an unhealthy lifestyle. So, an early prediction of this disease will be useful for a cure or aversion.
+- Abstract:
+Heart disease is easier to treat when it is detected in the early stages. Machine learning techniques may aid a more efficient analysis in the prediction of the disease. Moreover, this prediction is one of the most central problems in medicine, as it is one of the leading diseases related to an unhealthy lifestyle. So, an early prediction of this disease will be useful for a cure or aversion.
 
-Problem Statement:
+- Problem Statement:
 Analyze the heart disease dataset to explore the machine learning algorithms and build a decision tree model to predict the disease.
 
-Variable Description:
+- Variable Description:
 -- age : Age of the patient
 
 -- gender: Gender of the patient - (0,1) - (Male, Female)
@@ -34,6 +33,6 @@ Variable Description:
 
 -- target: The patient has heart disease or not - (1=Yes, 0=No)
 
-Scope:
+- Scope:
 ● Understand data by performing exploratory data analysis ● Training and building Decision Tree classification algorithm to predict if a patient has heart disease 
 ● Understand feature importances and improve the model ● Understand various model performance metrics and measure the performance of each model
